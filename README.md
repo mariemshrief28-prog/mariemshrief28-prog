@@ -29,8 +29,7 @@ I am a passionate **Computer Science Student** at Ain Shams University, deeply i
 
 ### 📫 Connect with Me
 - 💼 **LinkedIn:** [linkedin.com/in/mariem-shrief](https://www.linkedin.com/in/mariem-shrief-b73773389/)
-- 📧 **Email:** mariemshrief28@gmail.com## Hi there 👋
-
+- 📧 **Email:** mariemshrief28@gmail.com
 <!--
 **mariemshrief28-prog/mariemshrief28-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
